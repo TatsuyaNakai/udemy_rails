@@ -2,6 +2,9 @@
     "ace": {
         "@tabSize": 2
     },
+    "extensions": {
+        "@git.ignoreLimitWarning": true
+    },
     "instance": {
         "@automaticShutdown": "30"
     },
